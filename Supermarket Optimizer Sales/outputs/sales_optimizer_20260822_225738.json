@@ -1,0 +1,15 @@
+{
+    "generated_at": "2026-08-22T22:57:38.627558",
+    "sales_data": {
+        "item": "Milk",
+        "quantity_sold": 150,
+        "revenue": 450.0
+    },
+    "stage_1_analysis": {
+        "status": "High Demand",
+        "stock_level": "Low"
+    },
+    "stage_2_action_plan": {
+        "recommendation": "Restock 200 units by Friday."
+    }
+}

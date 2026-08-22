@@ -1,0 +1,40 @@
+{
+    "generated_at": "2026-08-22T22:49:00.223619",
+    "sales_data": [
+        {
+            "name": "Test Product",
+            "category": "Food",
+            "units_sold": 20,
+            "current_stock": 5,
+            "selling_price_kes": 100,
+            "cost_price_kes": 60
+        }
+    ],
+    "stage_1_analysis": {
+        "best_selling_products": [
+            "Test Product"
+        ],
+        "slow_moving_products": [],
+        "low_stock_products": [
+            "Test Product"
+        ],
+        "overstock_products": [],
+        "key_observations": [
+            "Test product has low stock."
+        ]
+    },
+    "stage_2_action_plan": {
+        "priority_actions": [
+            "Review stock level."
+        ],
+        "restocking_recommendations": [
+            "Consider replenishment."
+        ],
+        "promotion_ideas": [],
+        "inventory_actions": [],
+        "waste_reduction_actions": [],
+        "seven_day_action_plan": [
+            "Review product sales."
+        ]
+    }
+}
