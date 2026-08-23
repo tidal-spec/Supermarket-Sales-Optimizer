@@ -1,6 +1,12 @@
-from output_manager import save_results
+import json
+import sys
+import unittest
+from pathlib import Path
 
+# Tell Python to look in the parent folder for output_manager.py
+sys.path.append(str(Path(__file__).resolve().parent.parent))
 
+from output_manager import OUTPUT_FOLDER, save_results
 # Test that results can be saved
 def test_save_results():
 
